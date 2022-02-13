@@ -22,6 +22,8 @@
 
 * How is the company funded? How much funding have they received?
 
+    - Subscription user-based
+
    - Series A: $24,000,000
 
         - 2019 - $2,300,000 led by 1835i (ANZ Banks Venture Arm)
@@ -93,11 +95,33 @@ sites like Stackshare to find this information.)
 ## Results
 * What has been the business impact of this company so far?
 
+    - Divipay prides themselves with 900+ happy customers, 300,000+ hours saved on expense reports
+
 * What are some of the core metrics that companies in this domain use to measure success?
 
-How is your company performing, based on these metrics?
+    - ARR (Annual Reoccuring Revenue) - Subscription based companies will user this metric as it helps determine the amount of users engaged with the platform; as well as assisting in forecasting.
+
+    - MRR (Monthly Reoccuring Revenue) - This allows for quicker decision making for subscription based companies. Allowed to forecast peaks of growth and busy periods as well as assisting in the financial forcasting.
+
+    - Customer Engagement - Can open up opportunities to improve your offering and customer service (and, in the process, scale your profits upwards).
+
+    - Visitor conversation rate - This will measure the amount of traffic on the website that become a customer. This can be used to assist in marketing, web design and offerings.
+
+
+* How is your company performing, based on these metrics?
+
+    - ARR - Divipay current has 900 customers retained, which, depending on the traffic to the business, can be seen as good growth within 2 years. These customers would be on reoccuring subscriptions, indicating a rather high ARR. 
+
+    - Customer Engagement - Divipay highlights the amount of hours they have said customers in regarding strategies, indicating a key metric of measurement. While still in the growth stage, Divipay has saved their customers in excess of 300,000 hours. 
+
+    - Visitor Conversation Rate - Divipay emphasises the growth through word of mouth, however, Divipay is rather new to the market and starting to gain more attraction. Including customers such as Canva, C3 People, Michael Hill, Estimate One and Xero. Given my accounting background, i can see the use for this in a range of tasks. I would be lead to conclude conversion rate would remain steady and healthy.
 
 * How is your company performing relative to competitors in the same domain?
+
+    - Fintech Payments and Remittances have seen a soar of interest in the last 12months. Divipay has signed on large businesses to use their service and continue to be engaged with their community to provide more support. 
+
+
+ ![markdown.image](Comments_Divipay.PNG)   
 
 
 ---
@@ -105,13 +129,28 @@ How is your company performing, based on these metrics?
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer?
 
-(This could be something that a competitor offers, or use your imagination!)
+    - Given the increase need to travel, i would suggest a bonus points system to be used by the customers on Flights, Accommodation. 
+
+    - Integrating AI to determine product and category of business accounting software package. For example, purchase at Woolworths would indicate coding to general expense; verse a purchase of flight which would indicate flights and accommodation (If same GL Ledger)
+
+    - Growth through marketships - leading to a discount on product if using Divipay through an Online service or an accumulation of credit.
 
 * Why do you think that offering this product or service would benefit the company?
 
+    - One of the key drivers for Amex is the discounts and credit points accumulated for purchases. This in turn is used for Director Flights or Accommodation. If implemented by Divipay, this would provide incentive to use Divipay rather than a physical card.
+
+    - Categoried spends would assist the finance team in quick allocation of receipts during reconciliations. As an accountant, the time of directors are precious, therefore, any support in coding, will assist the finance team and a director who may be unsure on the code.
+
+    - Spending Credits would allow businesses to continuously use regular suppliers with Divipay, building relationships with common suppliers and assist Divipay with Marketing Offerings.
+
+
 * What technologies would this additional product or service utilize?
 
+    - AI Driven tool to provide a "best-case" code for the receipt of goods.  
+
 * Why are these technologies appropriate for your solution?
+
+    - This would be required to read the information of a receipt and match to a criteria database.
 
  
 Reference:
@@ -150,5 +189,15 @@ https://www.paypal.com/gi/webapps/mpp/about
 https://www.spoton.com/company/about-us/
 
 https://rechargepayments.com/about/
+
+Metrics for Fintech:
+
+https://www.ntaskmanager.com/blog/business-metrics/
+
+
+Image:
+
+https://divipay.com/
+
 
 
