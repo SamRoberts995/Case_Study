@@ -57,7 +57,7 @@ the unfair advantage they utilize?)
 take a little bit of sleuthing–– you may want to search the company’s engineering blog or use
 sites like Stackshare to find this information.)
 
-    - Divipay use a cloud-based platform to instantly issue employee smart corporate cards. This will allow finance managers to control the finances; while staff spend in-store or online.
+    - Divipay use a cloud-based platform to instantly issue employee smart corporate cards. This will allow finance managers to control the finances and reporting of data; while staff spend in-store or online.
 
     - Partnership with Slyp allows Divipay customers to use Smart Receipt Technology which integrates directly with merchants point-of-sale system, allowing for more accruate data and real-time capture, directly to the Divipay App. In addition, this technology can save employees time with capturing a photo for the finance team, as the information will be sent directly to the nominated accounting software (Xero, MYOB, Quickbooks). This is only for merchants who have Slyp enabled.
 
@@ -70,9 +70,25 @@ sites like Stackshare to find this information.)
 ## Landscape:
 * What domain of the financial industry is the company in?
 
+    - Payments and Remittances
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+    - The World Bank Group did a survey in 2010 and found most inefficiencies persist in the payment systems for middle to low income earners. Since then, big corporate banks have been joining with small Fintech Firms to create an accessable entry to the financial system market. Ranging from Payments and Remittances to Insurance. The reason for this trend is that Fintech has low-cost to entry and provide a solution to modern day problems. 
+    
+    - Digital Payments have improved sociatal welfare through the low-cost to transfer funds for goods and services, financing of products, investments activities and managing of your personal circumstances. 
+
 * What are the other major companies in this domain?
+
+    - Recharge - Recharge has developed payment processing technology that integrates seamlessly with various products. PayPal, Apple Pay, and other payment processors can sync with Recharge. As a result, customers can effortlessly access Recharge through digital formats.
+
+    - Spot-on - SpotOn is dedicated to helping small businesses streamline operations, connect with customers and increase revenue by providing them with an end-to-end solution for managing all of their payments needs. 
+
+    - Paypal - PayPal is the safer, easier way to pay and get paid online. The service allows anyone to pay in any way they prefer, including through credit cards, bank accounts, PayPal Smart Connect or account balances, without sharing financial information.
+
+---
+
+
 
 ## Results
 * What has been the business impact of this company so far?
@@ -82,6 +98,9 @@ sites like Stackshare to find this information.)
 How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+
+
+---
 
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer?
@@ -97,15 +116,39 @@ How is your company performing, based on these metrics?
  
 Reference:
 
-Company ABN - https://abr.business.gov.au/ABN/View?abn=39617434607
+Company ABN -
 
-Information about Divipay - https://divipay.com/about
+ https://abr.business.gov.au/ABN/View?abn=39617434607
 
-Fund Raises - https://divipay.com/blog/20-million-series-a-funding
+Information about Divipay - 
 
-SME Market Information - https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits/latest-release
+https://divipay.com/about
 
-Systems Design - https://divipay.com/blog/divipay-and-slyp-smart-reciepts
+Fund Raises - 
 
+https://divipay.com/blog/20-million-series-a-funding
+
+SME Market Information - 
+
+https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits/latest-release
+
+Systems Design - 
+
+https://divipay.com/blog/divipay-and-slyp-smart-reciepts
+
+Information on Impacts of Payment Systems -
+
+ https://openknowledge.worldbank.org/handle/10986/22121?show=full
+
+https://www.researchgate.net/publication/342663281_Fintech's_Impact_on_Payments_Domain
+
+
+Companies in this domain -
+
+https://www.paypal.com/gi/webapps/mpp/about
+
+https://www.spoton.com/company/about-us/
+
+https://rechargepayments.com/about/
 
 
