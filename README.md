@@ -24,15 +24,17 @@
 
    - Series A: $24,000,000
 
-        2019 - $2,300,000 led by 1835i (ANZ Banks Venture Arm)
-        2021 - $1,700,000 led by 1835i (ANZ Banks Venture Arm)
-        2021 - $20,000,000 led by Global Fintech-focus Equity Investor (Undisclosed)
+        - 2019 - $2,300,000 led by 1835i (ANZ Banks Venture Arm)
+
+        - 2021 - $1,700,000 led by 1835i (ANZ Banks Venture Arm)
+
+        - 2021 - $20,000,000 led by Global Fintech-focus Equity Investor (Undisclosed)
 
   -  Pre-seed: $100,000
 
-        $100,000 led by H2 Ventures             
+        - 2016 - $100,000 led by H2 Ventures             
 
-
+---
 
 ## Business Activities:
 * What specific financial problem is the company or project trying to solve?
@@ -41,14 +43,29 @@
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
+    - Divipay target the SMEs of Australia, which of current has a market of 2,402,254 actively trading businesses.
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is
 the unfair advantage they utilize?)
 
+    - Divipay offer a one-stop platform for Expense Management. The unfair advantage that is utilised by this company is the accounting problems that occur with having many physical cards; including receipts and reporting of expenses. Divipay has created a platform that allow this to be in one place and sync up with most accounting softwares to allow for seamless reporting. 
+
+    - Divipay has more of a focus to SME in Australia and cater to that market with lower costs to entry than most of their competitors. 
+
 * Which technologies are they currently using, and how are they implementing them? (This may
 take a little bit of sleuthing–– you may want to search the company’s engineering blog or use
 sites like Stackshare to find this information.)
+
+    - Divipay use a cloud-based platform to instantly issue employee smart corporate cards. This will allow finance managers to control the finances; while staff spend in-store or online.
+
+    - Partnership with Slyp allows Divipay customers to use Smart Receipt Technology which integrates directly with merchants point-of-sale system, allowing for more accruate data and real-time capture, directly to the Divipay App. In addition, this technology can save employees time with capturing a photo for the finance team, as the information will be sent directly to the nominated accounting software (Xero, MYOB, Quickbooks). This is only for merchants who have Slyp enabled.
+
+
+---
+
+
+
 
 ## Landscape:
 * What domain of the financial industry is the company in?
@@ -86,6 +103,9 @@ Information about Divipay - https://divipay.com/about
 
 Fund Raises - https://divipay.com/blog/20-million-series-a-funding
 
+SME Market Information - https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits/latest-release
+
+Systems Design - https://divipay.com/blog/divipay-and-slyp-smart-reciepts
 
 
 
